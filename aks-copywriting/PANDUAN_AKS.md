@@ -38,7 +38,13 @@ Guna fail ini setiap kali minta ayat baru supaya gaya kekal sama tapi ayat senti
 | Bilas | Pendek, doa + makluman, tak ulang harga/poster | "Salam Jumaat Tuan… doakanlah ya." |
 
 ## 5. Data tetap (sahkan sebelum guna)
-- Akaun contoh: *CIMB BANK / ASRAMA KASIH SAYANG / 8604 1824 13* — **sahkan masih aktif**.
+- Akaun semasa (guna ini sahaja, format 3 baris bold):
+  ```
+  *BANK RAKYAT*
+  *ASRAMA KASIH SAYANG*
+  *1101701441*
+  ```
+- **CIMB 8604 1824 13 sudah TIDAK digunakan.** Jangan masukkan dalam mana-mana ayat, walaupun contoh lama dalam arkib ada CIMB.
 - Kanvas: 10 helai × RM850 (20' × 20') = RM8,500.
 - Isnin: kuih seri muka + buah oren RM390. Khamis: kuih koci + buah lai RM375.
 - Sahur/iftar Khamis: ayam 32 ekor RM576, telur 20 papan RM296, mee kuning 110 paket RM198 = RM1,070.
