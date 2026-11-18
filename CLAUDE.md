@@ -68,3 +68,9 @@ src/
 2. Add translations for any user-facing text
 3. Use existing UI components from `src/components/ui/`
 4. Never commit secrets (use `.env`)
+
+## Invois NHY (tugasan pengguna)
+
+Bila pengguna sebut **invois / harga / semakan / barang** atau hantar gambar barang:
+baca **[invois-nhy/INVOIS_NHY.md](invois-nhy/INVOIS_NHY.md)** dulu dan ikut sepenuhnya
+(semakan dulu, invois hanya bila diminta, template jangan ubah).

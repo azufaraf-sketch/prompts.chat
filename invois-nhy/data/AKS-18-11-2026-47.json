@@ -1,0 +1,13 @@
+{
+  "tarikh": "18/11/2026",
+  "no_invois": "AKS-18-11-2026-47",
+  "rujukan": "-",
+  "nota": "",
+  "items": [
+    {"butiran": "Sardin Pertima (425g x 24)", "qty": 5, "uom": "CTN", "harga": 144.00},
+    {"butiran": "Kentang (8kg)", "qty": 4, "uom": "GNI", "harga": 14.00},
+    {"butiran": "Bawang India (9kg)", "qty": 4, "uom": "GNI", "harga": 26.00},
+    {"butiran": "Bawang Putih (3.5kg)", "qty": 2, "uom": "GNI", "harga": 24.00},
+    {"butiran": "Sup Bunjut Adabi (24 pek)", "qty": 2, "uom": "BDL", "harga": 32.00}
+  ]
+}
