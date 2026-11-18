@@ -49,7 +49,6 @@ Guna fail ini setiap kali minta ayat baru supaya gaya kekal sama tapi ayat senti
     *ASRAMA KASIH SAYANG*
     *1101701441*
     ```
-    (Status akaun utama sedang disahkan dengan cikgu — lihat nota CIMB di bawah.)
   - Cikgu sebut "Agro Bank" → guna format ini sahaja (tepat seperti ini):
     ```
     🗳Akaun Kebajikan
@@ -57,7 +56,7 @@ Guna fail ini setiap kali minta ayat baru supaya gaya kekal sama tapi ayat senti
     Agro Bank
     100-5141-000-108716
     ```
-- CIMB 8604 1824 13: cikgu pernah kata tak digunakan lagi — jangan guna sehingga disahkan semula.
+- **CIMB 8604 1824 13 sudah TIDAK boleh digunakan (disahkan cikgu). Jangan sekali-kali masukkan.**
 - Produk Asrama (lihat seksyen 5A).
 - Kanvas: 10 helai × RM850 (20' × 20') = RM8,500.
 - Isnin: kuih seri muka + buah oren RM390. Khamis: kuih koci + buah lai RM375.
