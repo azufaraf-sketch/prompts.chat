@@ -14,7 +14,7 @@ Guna fail ini setiap kali minta ayat baru supaya gaya kekal sama tapi ayat senti
 - **Panjang lalai: sederhana, tak sampai keluar "Read more" di WhatsApp** (sasaran ≤ ~550 aksara termasuk akaun). Panjang hanya bila cikgu minta.
 - Bila ada invois: maklumkan ia *invois barang yang ditempah/order dari pembekal* (bukan barang dah diterima/dibayar).
 - **Aliran kerja 2 langkah:**
-  1. Draf pertama: teks biasa untuk cikgu baca & semak — TIADA asterisk, TIADA blok kod.
+  1. Draf pertama: untuk cikgu baca & semak — TIADA asterisk. Letak dalam kotak teks biasa (tanpa bintang) supaya baris akaun kekal rapat; paparan chat menjarakkan setiap baris jika di luar kotak.
   2. Selepas cikgu setuju & pilih versi, baru buat versi copy-paste dalam blok kod dengan bold WhatsApp.
 - Bold WhatsApp = satu asterisk: `*teks*` (hanya dalam versi copy-paste).
 - Emoji sederhana sahaja: 🥹 🤲 😔 😢 😭 (biasanya 1–3 sepanjang mesej).
