@@ -117,3 +117,6 @@ Versi: 1 atau 3
 (Isi tarikh + pembuka + ayat doa yang dipakai, supaya ayat seterusnya lain.)
 | Tarikh | Jenis | Pembuka | Sudut cerita | Doa |
 |---|---|---|---|---|
+| 18/11/2026 | Iftar Khamis RM992 (sardin/kentang/bawang/sup) v1 soft | Assalamualaikum Tn Haji | cikgu kira barang dapur, senarai item | setiap suapan jadi saksi, rezeki dari arah tak disangka |
+| 18/11/2026 | Iftar Khamis RM992 v2 hard-lembut | Allahuakbar Tuan 😔 | sardin sekarton RM144 = satu bahagian | kenyangkan anak yatim di dunia → nikmat syurga |
+| 18/11/2026 | Iftar Khamis RM992 v3 minta tak meminta | Tn Haji… (nama terus) | cikgu fikir hidangan berbuka | sihat tubuh, tenang hati, pahala arwah mak ayah |
