@@ -11,6 +11,8 @@ Guna fail ini setiap kali minta ayat baru supaya gaya kekal sama tapi ayat senti
 ## 2. Suara
 - Melayu perbualan, sentuhan Kedah yang lembut: *depa, kami cikgu-cikgu, ni, tu, sikit, dah*.
 - 3–5 perenggan pendek. Bercerita, sayu, tapi tak manipulatif.
+- **Panjang lalai: sederhana, tak sampai keluar "Read more" di WhatsApp** (sasaran ≤ ~550 aksara termasuk akaun). Panjang hanya bila cikgu minta.
+- Bila ada invois: maklumkan ia *invois barang yang ditempah/order dari pembekal* (bukan barang dah diterima/dibayar).
 - Bold WhatsApp = satu asterisk: `*teks*`.
 - Emoji sederhana sahaja: 🥹 🤲 😔 😢 😭 (biasanya 1–3 sepanjang mesej).
 - **Peraturan undang-undang (WAJIB):** ini *jualan produk Asrama*, bukan kutipan derma.
