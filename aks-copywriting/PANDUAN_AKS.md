@@ -126,3 +126,6 @@ Versi: 1 atau 3
 | 18/11/2026 | Iftar Khamis RM992 (sardin/kentang/bawang/sup) v1 soft | Assalamualaikum Tn Haji | cikgu kira barang dapur, senarai item | setiap suapan jadi saksi, rezeki dari arah tak disangka |
 | 18/11/2026 | Iftar Khamis RM992 v2 hard-lembut | Allahuakbar Tuan 😔 | sardin sekarton RM144 = satu bahagian | kenyangkan anak yatim di dunia → nikmat syurga |
 | 18/11/2026 | Iftar Khamis RM992 v3 minta tak meminta | Tn Haji… (nama terus) | cikgu fikir hidangan berbuka | sihat tubuh, tenang hati, pahala arwah mak ayah |
+| 19/11/2026 (pagi) | Bilas Khamis RM992 + video Iftar & Yasin Isnin – 1 doa | Selamat pagi Tn Haji | video Isnin, invois semalam | lapangkan urusan hari ni, jauh dari sakit |
+| 19/11/2026 (pagi) | Bilas 2 minta tak meminta | Subhanallah Tuan 😢 | sejuk hati tengok baca Yasin & berbuka | anak cucu penyejuk mata |
+| 19/11/2026 (pagi) | Bilas 3 masih sempat | Tn Haji… | berbuka lepas Yasin, invois RM992 | pelihara sekeluarga, berkati rezeki yang dititipkan |

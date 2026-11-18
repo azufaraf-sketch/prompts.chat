@@ -20,6 +20,7 @@ body{background:var(--bg);color:var(--fg);font-family:var(--font);
 header h1{font-size:1.15rem;margin:0 0 4px}
 header p{margin:0;color:var(--muted);font-size:.9rem;line-height:1.45}
 .card{display:flex;flex-direction:column;gap:10px}
+.group{font-size:1rem;margin:14px 0 -6px;padding-top:12px;border-top:1px solid var(--line)}
 .label{font-size:.78rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
 .chat{background:var(--chat);border:1px solid var(--line);border-radius:14px;padding:14px 12px;display:flex;justify-content:flex-end}
 .bubble{background:var(--bubble);color:var(--fg);border-radius:10px 2px 10px 10px;padding:9px 11px 6px;
@@ -37,7 +38,7 @@ textarea.fallback{width:100%;min-height:120px;font:inherit;font-size:.85rem}
 
 <div class="wrap">
   <header>
-    <h1>Iftar Khamis · Invois RM992</h1>
+    <h1>Draf Mesej AKS</h1>
     <p>Baca macam di WhatsApp. Bila dah setuju, tekan butang salin, terus tampal ke WhatsApp (bold dah siap).</p>
   </header>
   <main id="list" class="wrap" style="padding:0"></main>
@@ -45,7 +46,37 @@ textarea.fallback{width:100%;min-height:120px;font:inherit;font-size:.85rem}
 
 <script>
 const DRAFTS = [
-{label:"Versi 1 · Soft sell", text:
+{group:"Bilas Khamis pagi · bersama video Iftar & Yasin Isnin", label:"Bilas 1 · Doa & makluman", text:
+`Selamat pagi Tn Haji… 🥹
+
+Ni video anak-anak yatim & asnaf berbuka puasa sunat Isnin lepas, sebelum tu depa baca Yasin sama-sama.
+
+*Hari ni depa berpuasa sunat Khamis pula.* Invois barang dapur yang saya kongsi semalam tu untuk juadah berbuka depa petang ni ya Tn Haji.
+
+*Doakanlah urusan kami dipermudahkan.* 🤲
+
+*Moga Allah lapangkan urusan Tn Haji hari ni dan jauhkan Tn Haji sekeluarga dari segala sakit.* Aamiin.`},
+{label:"Bilas 2 · Minta tak meminta", text:
+`Subhanallah Tuan… 😢
+
+Sejuk hati tengok anak-anak ni baca Yasin, lepas tu duduk berbuka sama-sama hari Isnin lepas. Saya kirim videonya ya Tuan.
+
+*Petang ni depa berbuka puasa sunat Khamis.* Barang dapur dalam invois semalam tu masih kami usahakan.
+
+Itulah Tuan, sekadar mengingatkan… *kalau ada kelapangan, bolehlah bantu melalui produk Asrama ataupun sumbangan ikhlas.*
+
+*Moga anak cucu Tuan membesar jadi penyejuk mata, sebagaimana Tuan menyejukkan hati anak-anak yatim ni.* Aamiin 🤲`},
+{label:"Bilas 3 · Masih sempat (hard sell lembut)", text:
+`Tn Haji… 🥹
+
+Video ni suasana anak-anak yatim & asnaf berbuka Isnin lepas, *selepas bacaan Yasin.*
+
+*Petang ni depa berbuka lagi, puasa sunat Khamis.* Juadahnya dari invois RM992 yang saya kongsi semalam.
+
+*Kalau Tn Haji nak sama-sama jamu depa hari ni, masih sempat ya Tn Haji,* melalui *produk Asrama ataupun sumbangan ikhlas,* hasilnya untuk tujuan kebajikan.
+
+*Ya Allah, peliharalah Tn Haji sekeluarga dan berkatilah setiap rezeki yang Engkau titipkan.* Aamiin 🤲`},
+{group:"Iftar Khamis · Invois RM992 (dah guna semalam)", label:"Versi 1 · Soft sell", text:
 `Assalamualaikum Tn Haji… 🥹
 
 Esok Khamis, anak-anak yatim & asnaf kami berpuasa sunat. *Ni invois barang dapur yang kami order dari pembekal untuk juadah berbuka depa, semuanya RM992.*
@@ -90,6 +121,7 @@ function waToHtml(s){return esc(s).replace(/\*([^*\n]+)\*/g,"<strong>$1</strong>
 
 const list=document.getElementById("list");
 DRAFTS.forEach((d,i)=>{
+  if(d.group){const h=document.createElement("h2");h.className="group";h.textContent=d.group;list.appendChild(h)}
   const card=document.createElement("section");card.className="card";
   card.innerHTML=`<div class="label">${esc(d.label)}</div>
   <div class="chat"><div class="bubble">${waToHtml(d.text)}<span class="time">${d.text.length} aksara</span></div></div>
