@@ -13,7 +13,11 @@ Guna fail ini setiap kali minta ayat baru supaya gaya kekal sama tapi ayat senti
 - 3–5 perenggan pendek. Bercerita, sayu, tapi tak manipulatif.
 - Bold WhatsApp = satu asterisk: `*teks*`.
 - Emoji sederhana sahaja: 🥹 🤲 😔 😢 😭 (biasanya 1–3 sepanjang mesej).
-- Sebut "**pembelian produk Asrama** atau **sumbangan ikhlas** untuk kebajikan". Elak "sedekah/infak/wakaf" untuk rayuan biasa.
+- **Peraturan undang-undang (WAJIB):** ini *jualan produk Asrama*, bukan kutipan derma.
+  - Frasa rasmi: "**pembelian produk Asrama** atau **sumbangan ikhlas**, *hasilnya untuk tujuan kebajikan*".
+  - "Sumbangan" hanya boleh muncul dalam frasa *sumbangan ikhlas* yang berpasangan dengan produk Asrama. Jangan guna "sumbangan" seorang diri (cth. "sumbang", "beri sumbangan RM…", "sumbangan untuk kanvas").
+  - **Jangan sebut:** sedekah, zakat, infak, wakaf, derma, dana, tabung, kutipan.
+  - Ajakan diarahkan kepada *menjamu / membantu / ambil bahagian*, dan saluran tetap produk Asrama.
 - Sentiasa ada pelepas beban: "ikut kemampuan", "berapa pun", "janji tak membebankan".
 - Jangan buat penyantun rasa bersalah. Jangan reka jasa lama yang tak benar. Jangan kata barang dah sampai kalau belum.
 - Doa naungan Arasy = harapan/doa, bukan janji ganjaran.
@@ -45,9 +49,31 @@ Guna fail ini setiap kali minta ayat baru supaya gaya kekal sama tapi ayat senti
   *1101701441*
   ```
 - **CIMB 8604 1824 13 sudah TIDAK digunakan.** Jangan masukkan dalam mana-mana ayat, walaupun contoh lama dalam arkib ada CIMB.
+- Produk Asrama (lihat seksyen 5A).
 - Kanvas: 10 helai × RM850 (20' × 20') = RM8,500.
 - Isnin: kuih seri muka + buah oren RM390. Khamis: kuih koci + buah lai RM375.
 - Sahur/iftar Khamis: ayam 32 ekor RM576, telur 20 papan RM296, mee kuning 110 paket RM198 = RM1,070.
+
+## 5A. Produk Asrama (semua diiringi zikir & doa, "Sedap & Berkhasiat")
+**Kekacang & buah kering "Penawar" – RM200 seunit**
+- Kurma Ajwa 500g · Aprikot Kering (poster 500g / PDF 400g – sahkan) · Badam Penawar Kasih Sayang 500g
+- Kismis Yellow & Black Raisins 500g · Gajus 500g · Kacang Medan 500g
+- Kacang Cerdik (poster 500g / PDF 300g – sahkan) · Biskut Bear 400g
+
+**Snek balang – RM200 (400g)**
+- Rempeyek Salted Egg · Rempeyek Ori · Rempeyek Supering · Kerepek Nangka Madu · Kerepek Kentang Seaweed · Samosa Mini
+
+**Minuman herba (botol)**
+- Pati Minda RM200 (380ml) – minda, fokus, tenaga, antioksidan
+- Pati Herba RM200 (380ml) – herba semula jadi, nutrisi, antioksidan
+- Madu Tongkat Ali RM100 (250ml) – stamina, tenaga, kecergasan
+
+**Lain-lain**
+- Minyak Panas Penawar RM200 (50ml) · Minyak Urut Saraf Penawar RM200 (50ml)
+- Pewangi Kereta (Lemon, Vanila, Apple) + Haruman Murni – RM200, 4 dalam 1
+
+Slogan poster: *"Bukan nilai produk ini semata-mata, tapi besar apa yang tuan puan usaha dan korbankan buat anak-anak asnaf yang memerlukan."*
+Laman: asrama-kasihsayang.com · TikTok/Facebook/Maps: Asrama Kasih Sayang
 
 ## 6. Peraturan anti-ulang
 Setiap permintaan baru, tukar sekurang-kurangnya **4 daripada 6** paksi ini berbanding mesej sebelum:
@@ -64,7 +90,7 @@ Frasa yang **tak boleh diulang** dua kali berturut-turut:
 ## 7. Bank frasa (putar, jangan guna yang sama berturut)
 **Pelepas beban:** janji tak membebankan · ikut kelapangan · sikit pun dah besar maknanya · tak perlu semua · mana yang termampu · kalau ada lebih sikit rezeki hari ni · tak ada pun tak apa, doa pun dah cukup
 
-**Ajakan:** sama-sama kita cukupkan · ambil bahagian · jadi tetamu pahala di dulang depa · teman anak-anak berbuka dari jauh · sumbang satu bahagian · jamu depa petang ni · tumpang rezeki menjamu
+**Ajakan:** sama-sama kita cukupkan · ambil bahagian · jadi tetamu pahala di dulang depa · teman anak-anak berbuka dari jauh · ambil satu bahagian melalui produk Asrama · jamu depa petang ni · tumpang rezeki menjamu
 
 **Penutup doa:** rezeki diberkati · dimurahkan rezeki & dipanjangkan umur dalam taat · anak cucu jadi penyejuk mata · pahala mengalir buat arwah mak ayah · dijauhkan sakit & musibah · urusan kerja/perniagaan dipermudahkan · naungan Arasy pada hari tiada naungan · syurga tanpa hisab
 
