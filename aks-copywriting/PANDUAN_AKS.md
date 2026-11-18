@@ -16,6 +16,7 @@ Guna fail ini setiap kali minta ayat baru supaya gaya kekal sama tapi ayat senti
 - **Aliran kerja 2 langkah:**
   1. Draf pertama: JANGAN tunjuk dalam chat/kotak kod. Kemas kini halaman pratonton `aks-copywriting/pratonton.html` (artifact https://claude.ai/artifact/DmxsvaSV7exbPqEV8fT4zP — publish semula ke URL yang sama) yang paparkan bubble seperti WhatsApp, bold dah dipaparkan, akaun rapat, butang salin untuk setiap versi.
   2. Cikgu salin terus dari butang di halaman pratonton (teks dengan *bold* WhatsApp).
+  3. Untuk group Telegram: butang "Salin untuk Group Telegram" balut teks dengan ``` supaya Telegram tak tukar *bintang* jadi italik; kawan-kawan salin dari kotak kod itu ke WhatsApp.
 - Bold WhatsApp = satu asterisk: `*teks*` (hanya dalam versi copy-paste).
 - Emoji sederhana sahaja: 🥹 🤲 😔 😢 😭 (biasanya 1–3 sepanjang mesej).
 - **Peraturan undang-undang (WAJIB):** ini *jualan produk Asrama*, bukan kutipan derma.

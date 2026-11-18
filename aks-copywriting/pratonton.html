@@ -29,6 +29,7 @@ header p{margin:0;color:var(--muted);font-size:.9rem;line-height:1.45}
 .time{display:block;text-align:right;font-size:11px;color:var(--muted);margin-top:2px}
 .actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 button{font:inherit;font-size:.92rem;font-weight:700;background:var(--accent);color:var(--accent-fg);border:0;border-radius:999px;padding:9px 16px;cursor:pointer}
+button.alt{background:transparent;color:var(--accent);box-shadow:inset 0 0 0 2px var(--accent)}
 button:focus-visible{outline:3px solid var(--fg);outline-offset:2px}
 .status{font-size:.85rem;color:var(--muted)}
 textarea.fallback{width:100%;min-height:120px;font:inherit;font-size:.85rem}
@@ -92,16 +93,18 @@ DRAFTS.forEach((d,i)=>{
   const card=document.createElement("section");card.className="card";
   card.innerHTML=`<div class="label">${esc(d.label)}</div>
   <div class="chat"><div class="bubble">${waToHtml(d.text)}<span class="time">${d.text.length} aksara</span></div></div>
-  <div class="actions"><button id="copy-${i}" type="button">Salin untuk WhatsApp</button><span class="status" id="st-${i}"></span></div>`;
+  <div class="actions"><button id="copy-${i}" type="button" data-mode="wa">Salin untuk WhatsApp</button><button id="copytg-${i}" type="button" data-mode="tg" class="alt">Salin untuk Group Telegram</button><span class="status" id="st-${i}"></span></div>`;
   list.appendChild(card);
-  card.querySelector("button").addEventListener("click",()=>{
+  card.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>{
     const st=card.querySelector(".status");
-    navigator.clipboard.writeText(d.text).then(()=>{st.textContent="Dah disalin. Tampal di WhatsApp."})
+    const tg=b.dataset.mode==="tg";
+    const out=tg?"```\n"+d.text+"\n```":d.text;
+    navigator.clipboard.writeText(out).then(()=>{st.textContent=tg?"Dah disalin. Tampal di Telegram, bintang akan kekal dalam kotak kod.":"Dah disalin. Tampal di WhatsApp."})
     .catch(()=>{
       let ta=card.querySelector("textarea");
-      if(!ta){ta=document.createElement("textarea");ta.className="fallback";ta.readOnly=true;ta.value=d.text;card.appendChild(ta)}
-      ta.focus();ta.select();st.textContent="Tekan lama pada kotak di bawah, pilih Salin.";
+      if(!ta){ta=document.createElement("textarea");ta.className="fallback";ta.readOnly=true;card.appendChild(ta)}
+      ta.value=out;ta.focus();ta.select();st.textContent="Tekan lama pada kotak di bawah, pilih Salin.";
     });
-  });
+  }));
 });
 </script>
