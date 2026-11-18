@@ -42,13 +42,22 @@ Guna fail ini setiap kali minta ayat baru supaya gaya kekal sama tapi ayat senti
 | Bilas | Pendek, doa + makluman, tak ulang harga/poster | "Salam Jumaat Tuan… doakanlah ya." |
 
 ## 5. Data tetap (sahkan sebelum guna)
-- Akaun semasa (guna ini sahaja, format 3 baris bold):
-  ```
-  *BANK RAKYAT*
-  *ASRAMA KASIH SAYANG*
-  *1101701441*
-  ```
-- **CIMB 8604 1824 13 sudah TIDAK digunakan.** Jangan masukkan dalam mana-mana ayat, walaupun contoh lama dalam arkib ada CIMB.
+- **Akaun TIDAK dimasukkan secara automatik.** Masukkan hanya bila cikgu minta dalam permintaan.
+  - Cikgu kata "masukkan akaun" → guna akaun utama (format 3 baris bold):
+    ```
+    *BANK RAKYAT*
+    *ASRAMA KASIH SAYANG*
+    *1101701441*
+    ```
+    (Status akaun utama sedang disahkan dengan cikgu — lihat nota CIMB di bawah.)
+  - Cikgu sebut "Agro Bank" → guna format ini sahaja (tepat seperti ini):
+    ```
+    🗳Akaun Kebajikan
+     *Asrama Kasih Sayang*
+    Agro Bank
+    100-5141-000-108716
+    ```
+- CIMB 8604 1824 13: cikgu pernah kata tak digunakan lagi — jangan guna sehingga disahkan semula.
 - Produk Asrama (lihat seksyen 5A).
 - Kanvas: 10 helai × RM850 (20' × 20') = RM8,500.
 - Isnin: kuih seri muka + buah oren RM390. Khamis: kuih koci + buah lai RM375.
