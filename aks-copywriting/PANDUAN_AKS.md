@@ -47,6 +47,7 @@ Guna fail ini setiap kali minta ayat baru supaya gaya kekal sama tapi ayat senti
 | Bilas | Pendek, doa + makluman, tak ulang harga/poster | "Salam Jumaat Tuan… doakanlah ya." |
 
 ## 5. Data tetap (sahkan sebelum guna)
+- Blok akaun mesti RAPAT (baris demi baris, tiada jarak antara baris akaun), termasuk dalam draf bacaan.
 - **Akaun TIDAK dimasukkan secara automatik.** Masukkan hanya bila cikgu minta dalam permintaan.
   - Cikgu kata "masukkan akaun" → guna akaun utama (format 3 baris bold):
     ```
