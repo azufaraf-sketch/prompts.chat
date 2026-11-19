@@ -163,6 +163,6 @@ Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri
 
 | Tarikh | Jenis | Pembuka | Sudut cerita | Doa |
 |---|---|---|---|---|
-| 19/11/2026 (malam) | Tajaan Jamuan Jumaat kebab RM1,809 v1 | Malam Jumaat ni Tn Haji | cikgu bincang sambil anak-anak baca Yasin | ampun & tenang hati |
-| 19/11/2026 (malam) | v2 cari penaja | Allahuakbar Tuan | pilih nak taja yang mana | rezeki berkat, anak-anak doakan penaja |
-| 19/11/2026 (malam) | v3 soalan penutup | Tn Haji… | anak-anak beratur pegang pinggan | pelihara, setiap Jumaat berkat |
+| 19/11/2026 (malam) | Tajaan Jamuan Jumaat kebab RM1,407 v1 sedih | Tn Haji… 😢 | anak yatim termenung rindu mak ayah | gembirakan dunia akhirat |
+| 19/11/2026 (malam) | v2 sedikit hajat | Allahuakbar Tuan | bukan banyak yang dipinta, RM7 seorang senyum | rezeki berkat, anak-anak doakan penaja |
+| 19/11/2026 (malam) | v3 sebak | Tn Haji… 😔 | beratur pegang pinggan, gembira dengan yang sederhana | sejukkan rumah tangga |
