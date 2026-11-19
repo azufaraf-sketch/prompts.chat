@@ -111,6 +111,12 @@ Bawang Besar 9kg 26.00/GNI · Tepung Jagung Cap Bintang 400g x20 55.00/CTN · Mi
 - 16/10/2026: Beras 10kg 30.00 · Bihun 5kg 28.00 · Telur Gred A 13.00/PPN · Ikan bilis 10kg 169.00 · Bawang besar 5kg 22.00 · Bawang putih 5kg 42.00 · Kentang 5kg 15.50
 - 20/10/2026: Bawang merah 3kg 21.00/BEG
 
+### Senarai penuh invois lama (dari PDF dalam pakej ZIP)
+- **09/10/2026** (RM4,316.80): Ayam mentah 18.00/EKR · Telur Gred A 13.00/PPN · Serbuk Jintan Manis 1kg 18.00/PKT · Rempah Daging 1kg 22.00/KG · Serbuk Cili AA 1kg 26.00/KG · Jintan Manis biji 1kg 16.80/PKT · Jintan Putih biji 1kg 29.00/PKT · Lada Hitam 1kg 46.00/PKT · Bawang India 888 ±9kg 27.00/BEG · Bawang Putih guni kecil 27.00/GNI · Santan SNP 200ml x24 48.00/CTN · Susu Pekat Johan 2.5kg 104.00/CTN · Gula Gerek Bundle 10kg 56.00/BDL · Sos Mudim 2kg 70.20/CTN · Kicap Istimewa Mudim 800ml 72.00/CTN · Kicap Mudim 2kg 70.20/CTN · Bihun Siti 4.5kg 19.80/PKT · Tepung Gandum Rose 1kg x12 26.00/CTN · Ubi Kentang China 8kg 14.50/BEG
+- **20/10/2026** (RM1,091.50): Krimer Manis Kopi & Teh Tarik 129.00/CTN · Susu Cair Tarik 390g x48 135.00/CTN · Hup Seng Cream Crackers 428g x12 61.90/CTN · Biskut Julie's 2.70/PKT · Kentang 2kg 8.00/BEG · Bawang Merah 3kg 21.00/BEG · Tepung Gandum Rose 26.00/CTN · Ikan Bilis Kopek 10kg 175.00/UNIT
+- **24/05/2026** (RM2,595.00): Beras 10kg 43.00 · Bihun 5kg 28.00 · Sardin Pertima 155.00/CTN · Ikan bilis 10kg 220.00 · Bawang besar 10kg 55.00 · Bawang putih 10kg 130.00 · Kentang 10kg 45.00
+- **Minyak masak 5kg botol: TIADA rekod** (hanya Minyak Masak 2kg x 6 = 72.00/CTN pada 13/11).
+
 Selepas setiap invois baru yang disahkan, **tambah harga ke bahagian ini**.
 
 ## 7. FAIL
