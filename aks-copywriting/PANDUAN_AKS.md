@@ -129,3 +129,6 @@ Versi: 1 atau 3
 | 19/11/2026 (pagi) | Bilas Khamis RM992 + video Iftar & Yasin Isnin – 1 doa | Selamat pagi Tn Haji | video Isnin, invois semalam | lapangkan urusan hari ni, jauh dari sakit |
 | 19/11/2026 (pagi) | Bilas 2 minta tak meminta | Subhanallah Tuan 😢 | sejuk hati tengok baca Yasin & berbuka | anak cucu penyejuk mata |
 | 19/11/2026 (pagi) | Bilas 3 masih sempat | Tn Haji… | berbuka lepas Yasin, invois RM992 | pelihara sekeluarga, berkati rezeki yang dititipkan |
+| 19/11/2026 | Iftar Khamis nasi ayam madu/donat/jambu batu RM400 v1 soft | Alhamdulillah Tn Haji | menu berbuka, buah jambu batu | makbulkan hajat baik |
+| 19/11/2026 | v2 gambaran dulang | Tuan… | terbayang dulang berbuka | rumah tangga tenang, hati lapang |
+| 19/11/2026 | v3 minta tak meminta | Salam Khamis Tn Haji | menu hari ni | lapang & terangi kubur arwah mak ayah |
