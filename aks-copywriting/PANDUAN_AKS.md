@@ -132,3 +132,31 @@ Versi: 1 atau 3
 | 19/11/2026 | Iftar Khamis donat red velvet + jambu batu RM400 v1 soft | Alhamdulillah Tn Haji | menu berbuka, buah jambu batu | makbulkan hajat baik |
 | 19/11/2026 | v2 gambaran dulang | Tuan… | terbayang dulang berbuka | rumah tangga tenang, hati lapang |
 | 19/11/2026 | v3 minta tak meminta | Salam Khamis Tn Haji | menu hari ni | lapang & terangi kubur arwah mak ayah |
+
+## 10. Jamuan Jumaat (templat)
+Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri & semak matematik.
+
+**Rangka:**
+1. Pembuka + *satu* salam sahaja (Salam Jumaat / Jumaat berkah).
+2. Cangkuk (pilih satu, putar): hajat lama anak-anak ("dah lama teringin nak merasa sate") · hadiah doa / khatam dari anak-anak · sempena bulan/peristiwa (Rabiulawal, Maulid, Syawal, puasa 6) · suasana petang Jumaat.
+3. Kesederhanaan: "bukan nak jamu mewah, cukuplah 2, 3 cucuk seorang".
+4. Senarai menu rapat dengan emoji makanan: `🍢 Sate (RM0.90 × 6 × 201) – RM1,085.40`. Jumlah bold.
+5. **Kos seorang anak** (jumlah ÷ 201), cth. "lebih kurang RM7.40 seorang" — penutup kecil yang padu.
+6. Waktu jamuan: "petang Jumaat sebelum Maghrib".
+7. Ajakan + pilihan kecil: "walau sekadar ais krim untuk semua (RM201)" / "sepinggan kuetiau".
+8. Saluran: pembelian produk Asrama ataupun sumbangan ikhlas, hasilnya untuk tujuan kebajikan.
+9. Akaun hanya bila diminta (Bank Rakyat lalai, Agro Bank bila disebut).
+10. Doa: anak-anak doakan penyantun petang Jumaat + doa khusus untuk penyantun.
+
+**Kekalkan (kekuatan ayat lama):** hadiah doa dari anak-anak · "segan menyapa sekali lagi… sekadar berkongsi peluang" · hajat lama anak-anak · harga per unit × 201 · "walaupun dengan sepinggan kuetiau" · soalan penutup yang mengajak ("Sudi Tuan bersama?") · kaitkan dengan bulan/peristiwa.
+
+**Elak (kelemahan ayat lama):**
+- Hadis/perkataan "sedekah"; "sumbangan ikhlas Jumaat" / "berilah sumbangan" — guna frasa rasmi sahaja.
+- Akaun CIMB (dah tak guna).
+- Dua kali Assalamualaikum; ayat pertama yang mengelirukan sebelum salam.
+- Salah kira: cth. RM3.50 × 201 = RM703.50 (bukan RM700); ais krim/roti RM1 × 201 = RM201 (bukan RM210).
+- Ejaan tak seragam (Kuetiau/Keutiew, Amin/Aamini) — guna "kuetiau", "Aamiin".
+- Bold bertaburan; terlalu panjang sampai "Read more".
+- "bantu anak-anak lagi?" — boleh rasa terbeban; guna "sudi bersama sekali lagi?" dengan nada lembut.
+
+**Rujukan poster:** "Tajaan Jamuan Jumaat" (sate ayam & daging, roti krim, ais krim = RM1,487.40) · "Jamuan Petang Jumaat" (kuetiau tomyam RM4.50 × 201 = RM904.50, ais krim RM201, roti krim RM201 = RM1,306.50). Slogan: *"Bukan banyak yang mereka pinta… cuma sedikit hajat di hari Jumaat."*
