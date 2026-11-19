@@ -5,8 +5,8 @@
   "nota": "",
   "items": [
     {"butiran": "Bawang Merah (5kg)", "qty": 3, "uom": "GNI", "harga": 35.00},
-    {"butiran": "Sardin Pertima (425g x 24)", "qty": 4, "uom": "CTN", "harga": 144.00},
-    {"butiran": "Minyak Masak Seri Murni (5kg)", "qty": 5, "uom": "BTL", "harga": 30.90},
+    {"butiran": "Sardin Pertima (425g x 24)", "qty": 3, "uom": "CTN", "harga": 144.00},
+    {"butiran": "Minyak Masak Seri Murni (5kg)", "qty": 4, "uom": "BTL", "harga": 30.90},
     {"butiran": "Sos Cili Mudim (900g x 12)", "qty": 5, "uom": "CTN", "harga": 67.00}
   ]
 }
