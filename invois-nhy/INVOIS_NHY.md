@@ -88,6 +88,14 @@ Selepas jana: buka PNG, semak visual, kemudian hantar PDF (SendUserFile). Commit
 
 ## 6. REKOD HARGA (rujukan — harga pengguna sentiasa menang)
 
+### 19/11/2026 — AKS-19-11-2026-47, JUMLAH RM1,170.50
+| Barang | QTY | UOM | Harga |
+|---|---|---|---|
+| Bawang Merah (5kg) | 3 | GNI | 35.00 (ikut 13/11) |
+| Sardin Pertima (425g x 24) | 4 | CTN | 144.00 |
+| Minyak Masak Seri Murni (5kg) | 5 | BTL | 30.90 (disahkan; = harga siling KPDN Nov 2026) |
+| Sos Cili Mudim (900g x 12) | 5 | CTN | 67.00 |
+
 ### 18/11/2026 — DISAHKAN pengguna (AKS-18-11-2026-47, JUMLAH RM992.00; siri 47 belum disahkan)
 | Barang | QTY | UOM | Harga |
 |---|---|---|---|
