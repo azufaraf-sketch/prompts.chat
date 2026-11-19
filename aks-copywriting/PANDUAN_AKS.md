@@ -160,3 +160,9 @@ Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri
 - "bantu anak-anak lagi?" — boleh rasa terbeban; guna "sudi bersama sekali lagi?" dengan nada lembut.
 
 **Rujukan poster:** "Tajaan Jamuan Jumaat" (sate ayam & daging, roti krim, ais krim = RM1,487.40) · "Jamuan Petang Jumaat" (kuetiau tomyam RM4.50 × 201 = RM904.50, ais krim RM201, roti krim RM201 = RM1,306.50). Slogan: *"Bukan banyak yang mereka pinta… cuma sedikit hajat di hari Jumaat."*
+
+| Tarikh | Jenis | Pembuka | Sudut cerita | Doa |
+|---|---|---|---|---|
+| 19/11/2026 (malam) | Tajaan Jamuan Jumaat kebab RM1,809 v1 | Malam Jumaat ni Tn Haji | cikgu bincang sambil anak-anak baca Yasin | ampun & tenang hati |
+| 19/11/2026 (malam) | v2 cari penaja | Allahuakbar Tuan | pilih nak taja yang mana | rezeki berkat, anak-anak doakan penaja |
+| 19/11/2026 (malam) | v3 soalan penutup | Tn Haji… | anak-anak beratur pegang pinggan | pelihara, setiap Jumaat berkat |
