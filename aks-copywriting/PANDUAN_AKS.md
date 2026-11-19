@@ -169,3 +169,6 @@ Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri
 | 19/11/2026 (malam) | Jumaat kebab RM1,407 sembang peribadi Tn Haji Hamid v1 | Tn Haji Hamid… | terfikir masa kira menu, teringat Tn Haji | gembirakan hati seperti gembirakan anak-anak |
 | 19/11/2026 (malam) | v2 | Assalamualaikum Tn Haji Hamid | sebak tengok anak-anak, tak minta banyak | pelihara & murahkan rezeki |
 | 19/11/2026 (malam) | v3 | Tn Haji Hamid… | "boleh saya kongsi satu hajat?" terbayang depa makan | sihat & hati tenang |
+| 19/11/2026 (malam) | Video khatam + Qiyamullail + hajat kebab (sejak Ramadan) v1 | Tn Haji Hamid… | nama dalam doa anak-anak | tunaikan hajat seperti tunaikan hajat anak yatim |
+| 19/11/2026 (malam) | v2 | Assalamualaikum Tn Haji Hamid | sebak dengar mengaji, kebab sejak Ramadan | berkat ayat Quran khatam mengalir |
+| 19/11/2026 (malam) | v3 | Tn Haji Hamid… 😔 | ringkas, "bolehkah sampaikan hajat?" | sampaikan segala hajat |
