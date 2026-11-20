@@ -139,6 +139,7 @@ Versi: 1 atau 3
 - Boleh selit hajat lain secara lembut di hujung (cth. "Doakanlah khemah anak2 ni masih dok usahakan lagi..").
 - Akaun di hujung bila diminta.
 - Supaya lebih dekat di hati: sebut nama dalam badan ayat · satu detail benar (cth. last rasa kebab masa Ramadan) · ayat lepas beban ("tak ada pun tak apa, doa pun cukup") · **doakan dia balik** (jangan hanya minta dia doakan) · satu hajat utama, hajat kedua sebut ringan.
+- Kalau penyantun pernah dihantar mesej hajat lain (cth. khemah), selit satu baris susulan lembut: "Khemah anak2 yang saya kongsi hari tu pun masih dok usahakan lagi, doakanlah ya Tuan.." — sebagai peringatan, bukan rayuan baru.
 
 ## 10. Jamuan Jumaat (templat)
 Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri & semak matematik.
