@@ -59,7 +59,7 @@ Guna fail ini setiap kali minta ayat baru supaya gaya kekal sama tapi ayat senti
   - Cikgu sebut "Agro Bank" → guna format ini sahaja (tepat seperti ini):
     ```
     🗳Akaun Kebajikan
-     *Asrama Kasih Sayang*
+    *Asrama Kasih Sayang*
     Agro Bank
     100-5141-000-108716
     ```
@@ -140,6 +140,13 @@ Versi: 1 atau 3
 - Akaun di hujung bila diminta.
 - Supaya lebih dekat di hati: sebut nama dalam badan ayat · satu detail benar (cth. last rasa kebab masa Ramadan) · ayat lepas beban ("tak ada pun tak apa, doa pun cukup") · **doakan dia balik** (jangan hanya minta dia doakan) · satu hajat utama, hajat kedua sebut ringan.
 - Kalau penyantun pernah dihantar mesej hajat lain (cth. khemah), selit satu baris susulan lembut: "Khemah anak2 yang saya kongsi hari tu pun masih dok usahakan lagi, doakanlah ya Tuan.." — sebagai peringatan, bukan rayuan baru.
+
+## 9B. Susunan hantaran terbaik (disahkan 20/11/2026)
+1. Salam ringkas + nama ("Tuan Dicky Salam Jumaat") — notifikasi nampak peribadi.
+2. Poster.
+3. Ayat pendek (rujuk poster) + akaun di hujung.
+4. Voice 20–50 saat sebagai penutup.
+Hantar semua dalam minit yang sama. Tiada ruang kosong di depan baris (termasuk baris akaun).
 
 ## 10. Jamuan Jumaat (templat)
 Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri & semak matematik.
