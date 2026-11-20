@@ -138,6 +138,7 @@ Versi: 1 atau 3
 - Tak perlu bold banyak, tak ulang harga; "Tengoklah poster Jumaat ni", "Mana tahu ada rezki Tuan haji hari ni", "Allahuakbar 🤲🥹".
 - Boleh selit hajat lain secara lembut di hujung (cth. "Doakanlah khemah anak2 ni masih dok usahakan lagi..").
 - Akaun di hujung bila diminta.
+- Supaya lebih dekat di hati: sebut nama dalam badan ayat · satu detail benar (cth. last rasa kebab masa Ramadan) · ayat lepas beban ("tak ada pun tak apa, doa pun cukup") · **doakan dia balik** (jangan hanya minta dia doakan) · satu hajat utama, hajat kedua sebut ringan.
 
 ## 10. Jamuan Jumaat (templat)
 Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri & semak matematik.
