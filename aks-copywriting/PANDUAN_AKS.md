@@ -133,6 +133,12 @@ Versi: 1 atau 3
 | 19/11/2026 | v2 gambaran dulang | Tuan… | terbayang dulang berbuka | rumah tangga tenang, hati lapang |
 | 19/11/2026 | v3 minta tak meminta | Salam Khamis Tn Haji | menu hari ni | lapang & terangi kubur arwah mak ayah |
 
+## 9A. Gaya "natural" kegemaran cikgu (poster + ayat pendek)
+- Bila poster dah ada semua butiran (menu, harga, jumlah), ayat jadi **sangat pendek & macam sembang biasa**: sapaan ringkas ("Tuan Dicky salam Jumaat.."), poster, kemudian 3–5 baris pendek.
+- Tak perlu bold banyak, tak ulang harga; "Tengoklah poster Jumaat ni", "Mana tahu ada rezki Tuan haji hari ni", "Allahuakbar 🤲🥹".
+- Boleh selit hajat lain secara lembut di hujung (cth. "Doakanlah khemah anak2 ni masih dok usahakan lagi..").
+- Akaun di hujung bila diminta.
+
 ## 10. Jamuan Jumaat (templat)
 Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri & semak matematik.
 
