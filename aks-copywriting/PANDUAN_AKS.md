@@ -148,6 +148,14 @@ Versi: 1 atau 3
 4. Voice 20–50 saat sebagai penutup.
 Hantar semua dalam minit yang sama. Tiada ruang kosong di depan baris (termasuk baris akaun).
 
+## 9C. Buat penyantun teruja buka video
+- Ayat cangkuk pendek SEBELUM video, tunjuk satu detik khusus: "Tuan tengok budak baju merah tu.. pegang ais krim macam tak nak lepas 🥹"
+- Saat pertama video = gambar paling kuat (senyuman, pegang kebab) — itu yang jadi gambar kecil di WhatsApp.
+- Video WhatsApp 30–45 saat; versi penuh untuk TikTok/Facebook.
+- Paling berkesan: klip 5 saat anak-anak sebut "Terima kasih Tuan ___!" (untuk penyantun yang bantu).
+- Penyantun yang bantu: "Ni hasil Tuan semalam.." (rasa milik). Yang belum: "Saya nak tunjuk sesuatu yang buat saya sebak semalam.."
+- Hantar waktu santai: lepas Isyak atau pagi hujung minggu.
+
 ## 10. Jamuan Jumaat (templat)
 Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri & semak matematik.
 
