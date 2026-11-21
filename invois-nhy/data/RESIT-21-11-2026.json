@@ -1,0 +1,30 @@
+{
+  "tarikh": "21/11/2026",
+  "no_invois": "AKS-21-11-2026-47",
+  "rujukan": "-",
+  "nota": "",
+  "_sumber": "Resit pembekal IMG_4255 (diterima 21/11/2026), TOTAL RM1,202.70. Harga = harga resit. No. invois belum disahkan.",
+  "items": [
+    {"butiran": "Bawang India Ballary (8kg)", "qty": 4, "uom": "GNI", "harga": 27.00},
+    {"butiran": "Bawang Putih (Guni Kecil)", "qty": 2, "uom": "GNI", "harga": 24.00},
+    {"butiran": "Ubi Kentang China (8kg)", "qty": 1, "uom": "GNI", "harga": 14.00},
+    {"butiran": "Kicap Manis Jaien (2L x 6)", "qty": 1, "uom": "CTN", "harga": 84.00},
+    {"butiran": "Susu Pekat Johan (500g x 48)", "qty": 1, "uom": "CTN", "harga": 129.00},
+    {"butiran": "Susu Cair Tarik Tarik (390g x 48)", "qty": 1, "uom": "CTN", "harga": 135.00},
+    {"butiran": "Kerepok Panda (500g)", "qty": 1, "uom": "CTN", "harga": 88.00},
+    {"butiran": "Susu Pekat Johan (2.5kg)", "qty": 1, "uom": "CTN", "harga": 104.00},
+    {"butiran": "Santan Kara (1L x 12)", "qty": 1, "uom": "CTN", "harga": 162.00},
+    {"butiran": "Gula Prai (1kg)", "qty": 1, "uom": "BDL", "harga": 68.00},
+    {"butiran": "Sos Tiram Almera (4.2kg)", "qty": 3, "uom": "UNIT", "harga": 8.50},
+    {"butiran": "Santan Kara (1L)", "qty": 2, "uom": "UNIT", "harga": 13.80},
+    {"butiran": "Sos Ikan Suree (880ml)", "qty": 1, "uom": "UNIT", "harga": 2.70},
+    {"butiran": "Plastik Nasi (100 pcs)", "qty": 2, "uom": "PKT", "harga": 16.80},
+    {"butiran": "Plastik 12 x 15 (200g)", "qty": 8, "uom": "PKT", "harga": 1.50},
+    {"butiran": "Plastik 15 x 18 (480g)", "qty": 5, "uom": "PKT", "harga": 6.20},
+    {"butiran": "Plastik 9 x 12 A.1 (480g)", "qty": 5, "uom": "PKT", "harga": 6.20},
+    {"butiran": "Marjerin Pelangi (1kg)", "qty": 2, "uom": "UNIT", "harga": 7.50},
+    {"butiran": "Cili Boh MNR (1kg)", "qty": 5, "uom": "PKT", "harga": 4.50},
+    {"butiran": "Bestari Pedas (1kg)", "qty": 5, "uom": "PKT", "harga": 9.00},
+    {"butiran": "Tepung Jagung Cap Bintang (1kg)", "qty": 4, "uom": "PKT", "harga": 4.20}
+  ]
+}

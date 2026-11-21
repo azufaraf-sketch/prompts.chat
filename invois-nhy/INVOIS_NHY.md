@@ -88,6 +88,37 @@ Selepas jana: buka PNG, semak visual, kemudian hantar PDF (SendUserFile). Commit
 
 ## 6. REKOD HARGA (rujukan — harga pengguna sentiasa menang)
 
+### ⭐ HARGA TERKINI — Resit pembekal 21/11/2026 (TOTAL RM1,202.70) — GUNA INI DULU
+Sumber: `rujukan/RESIT_21-11-2026_IMG_4255.jpg`, gambar barang `rujukan/BARANG_21-11-2026.jpg`.
+Data sedia untuk invois: `data/RESIT-21-11-2026.json` (no. invois belum disahkan).
+| Barang (nama invois) | Teks resit | QTY | UOM | Harga |
+|---|---|---|---|---|
+| Bawang India Ballary (8kg) | 8KG BAWANG[INDIA][BALLARY] | 4 | GNI | 27.00 |
+| Bawang Putih (Guni Kecil) | B PUTIH [GUNI KECIL] | 2 | GNI | 24.00 |
+| Ubi Kentang China (8kg) | 8KG UBI KENTANG[CINA] | 1 | GNI | 14.00 |
+| Kicap Manis Jaien (2L x 6) | 2LIT JAIEN KICAP MANIS | 1 | CTN | 84.00 |
+| Susu Pekat Johan (500g x 48) | 500GMX48 TIN SUSU JOHAN[BIASA] | 1 | CTN | 129.00 |
+| Susu Cair Tarik Tarik (390g x 48) | 390GM*48 TARIK TARIK CAIR | 1 | CTN | 135.00 |
+| Kerepok Panda (500g) | 500GM KPOPOK PANDA | 1 | CTN | 88.00 |
+| Susu Pekat Johan (2.5kg) | 2.5KG SUSU PEKAT JOHAN | 1 | CTN | 104.00 |
+| Santan Kara (1L x 12) | 1LIT*12 KARA SANTAN | 1 | CTN | 162.00 |
+| Gula Prai (1kg) | 1KG GULA PRAI | 1 | BDL | 68.00 |
+| Sos Tiram Almera (4.2kg) | SOS TIRAM ALMERA 4.2KG | 3 | UNIT | 8.50 |
+| Santan Kara (1L) | SANTAN KARA 1LITER | 2 | UNIT | 13.80 |
+| Sos Ikan Suree (880ml) | SUREE SOS IKAN 880ML | 1 | UNIT | 2.70 |
+| Plastik Nasi (100 pcs) | K NASI PLASTICK 1X100PC | 2 | PKT | 16.80 |
+| Plastik 12 x 15 (200g) | 12*15 PLASTICK 200G | 8 | PKT | 1.50 |
+| Plastik 15 x 18 (480g) | 15X18 PLASTICK 480GM | 5 | PKT | 6.20 |
+| Plastik 9 x 12 A.1 (480g) | 9X12 PLASTICK A.1 | 5 | PKT | 6.20 |
+| Marjerin Pelangi (1kg) | MARJERIN (1KG) PELANGI | 2 | UNIT | 7.50 |
+| Cili Boh MNR (1kg) | 1KG CILI BOH [MNR] | 5 | PKT | 4.50 |
+| Bestari Pedas (1kg) | 1KG BESTARI PEDAS | 5 | PKT | 9.00 |
+| Tepung Jagung Cap Bintang (1kg) | 1KG T JAGUNG [BINTANG] | 4 | PKT | 4.20 |
+
+Nota: resit tulis UOM "UNIT" untuk kebanyakan barang; dalam invois saya guna GNI/CTN/PKT ikut jenis barang.
+Bila pengguna minta harga barang di atas → guna harga ini (lebih baru dari 13/11, 19/11).
+
+
 ### 19/11/2026 — AKS-19-11-2026-47, JUMLAH RM1,170.50
 | Barang | QTY | UOM | Harga |
 |---|---|---|---|
