@@ -200,3 +200,6 @@ Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri
 | 20/11/2026 (petang) | v3 doa anak-anak | Tuan.. 🥹 | angkat tangan doakan pakcik makcik | nama Tuan dalam doa depa |
 | 21/11/2026 | Video Jamuan Jumaat – A penyantun dah bantu (terima kasih) | Tuan.. 🥹 Alhamdulillah | sebiji kebab tapi tengok senyum depa | gembirakan di syurga |
 | 21/11/2026 | Video Jamuan Jumaat – B belum bantu (perkembangan) | Tuan.. 🥹 Saya kongsi | hajat tertunai, kongsi gembira + khemah | sentiasa jaga sekeluarga |
+| 21/11/2026 | Terima kasih barang dapur RM992 sampai – 1 peribadi | Tuan.. 🥹 Alhamdulillah | barang depan mata, gambar & video | setiap suap jadi pahala mengalir |
+| 21/11/2026 | 2 group/broadcast | Alhamdulillah.. | selamat sampai ke Asrama | berkati rezeki, lindungi |
+| 21/11/2026 | 3 ringkas | Tuan.. tengoklah ni | hasil kebaikan Tuan | Allah saja balas jasa |
