@@ -190,3 +190,5 @@ Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri
 | 20/11/2026 (petang) | Bilas Jamuan Jumaat kebab v1 doa | Tuan.. 🥹 | makan hajat kecil sebelum Maghrib | lapang rezeki penghujung Jumaat |
 | 20/11/2026 (petang) | v2 masih sempat | Tuan, sekadar mengingatkan | masih dok usahakan | tak ada pun tak apa |
 | 20/11/2026 (petang) | v3 doa anak-anak | Tuan.. 🥹 | angkat tangan doakan pakcik makcik | nama Tuan dalam doa depa |
+| 21/11/2026 | Video Jamuan Jumaat – A penyantun dah bantu (terima kasih) | Tuan.. 🥹 Alhamdulillah | sebiji kebab tapi tengok senyum depa | gembirakan di syurga |
+| 21/11/2026 | Video Jamuan Jumaat – B belum bantu (perkembangan) | Tuan.. 🥹 Saya kongsi | hajat tertunai, kongsi gembira + khemah | sentiasa jaga sekeluarga |
