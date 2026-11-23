@@ -209,3 +209,6 @@ Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri
 | 23/11/2026 | Iftar Isnin RM375 v4 sembang | Tuan.. 🥹 | kejut sahur, mata separuh tutup | kuatkan dalam setiap urusan |
 | 23/11/2026 | v5 | Assalamualaikum Tuan.. | mesej "hari ni buah pear merah" | manis-maniskan hidup |
 | 23/11/2026 | v6 (petang) | Tuan.. 😔 | waktu Asar anak2 penat tunggu Maghrib | penat cari rezeki diganti berkat |
+| 23/11/2026 | Iftar Isnin RM375 v7 | Tuan.. saya nak sembang sikit boleh? | tengok juadah, yang ditunggu lepas berpuasa | balas dengan yang lebih baik |
+| 23/11/2026 | v8 | Tuan.. 🥹 | tak sampai RM2 seorang | lapang dada & rezeki |
+| 23/11/2026 | v9 | Tuan.. 🥹 | azan Maghrib, doa orang berpuasa tak ditolak | Aamiin ya Rabb |
