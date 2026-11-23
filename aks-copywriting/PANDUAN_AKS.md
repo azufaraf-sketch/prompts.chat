@@ -156,6 +156,10 @@ Hantar semua dalam minit yang sama. Tiada ruang kosong di depan baris (termasuk 
 - Penyantun yang bantu: "Ni hasil Tuan semalam.." (rasa milik). Yang belum: "Saya nak tunjuk sesuatu yang buat saya sebak semalam.."
 - Hantar waktu santai: lepas Isyak atau pagi hujung minggu.
 
+## 9D. Susunan hantar doa bernama (Yasin/solat hajat) — disahkan 23/11/2026
+Stiker salam → ayat pembuka (sapa nama + puasa sunat) → video → gambar kertas doa bernama → ayat penutup ("khusuk anak2 ni dok baca Yasin.. ada nama Kak ___ dalam doa.. murah rezeki, sihat tubuh badan. Aamiin").
+Sebab: ayat penutup merujuk "video dan kertas" yang dah dilihat; mesej berakhir dengan doa, bukan gambar.
+
 ## 10. Jamuan Jumaat (templat)
 Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri & semak matematik.
 
