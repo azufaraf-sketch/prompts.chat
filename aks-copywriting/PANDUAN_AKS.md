@@ -158,6 +158,7 @@ Hantar semua dalam minit yang sama. Tiada ruang kosong di depan baris (termasuk 
 
 ## 9D. Susunan hantar doa bernama (Yasin/solat hajat) — disahkan 23/11/2026
 Stiker salam → ayat pembuka (sapa nama + puasa sunat) → video → gambar kertas doa bernama → ayat penutup ("khusuk anak2 ni dok baca Yasin.. ada nama Kak ___ dalam doa.. murah rezeki, sihat tubuh badan. Aamiin").
+Bold: mesej peribadi = bold minimum. Ayat pembuka tanpa bold; ayat penutup bold SATU bahagian sahaja (nama dalam doa). Bold banyak rasa macam iklan.
 Sebab: ayat penutup merujuk "video dan kertas" yang dah dilihat; mesej berakhir dengan doa, bukan gambar.
 
 ## 10. Jamuan Jumaat (templat)
