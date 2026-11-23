@@ -206,3 +206,6 @@ Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri
 | 23/11/2026 | Iftar Isnin kuih bijan + pear merah RM375 v1 | Tuan.. 🥹 | nostalgia kuih bom bijan zaman kecil | Isnin penuh berkat |
 | 23/11/2026 | v2 | Assalamualaikum Tuan.. | sebiji dua kuih, sepotong pear; "sudi jadi asbab?" | rezeki yang tenang |
 | 23/11/2026 | v3 ringkas | Tuan.. salam Isnin | natural | doakan depa |
+| 23/11/2026 | Iftar Isnin RM375 v4 sembang | Tuan.. 🥹 | kejut sahur, mata separuh tutup | kuatkan dalam setiap urusan |
+| 23/11/2026 | v5 | Assalamualaikum Tuan.. | mesej "hari ni buah pear merah" | manis-maniskan hidup |
+| 23/11/2026 | v6 (petang) | Tuan.. 😔 | waktu Asar anak2 penat tunggu Maghrib | penat cari rezeki diganti berkat |
