@@ -171,6 +171,9 @@ Sebab: ayat penutup merujuk "video dan kertas" yang dah dilihat; mesej berakhir 
 ## 9E. Ayat MAKLUMAN (bukan minta) untuk semua penyantun
 Guna bila sebahagian penyantun dah bantu. Nada: "sekadar memaklumkan… jika ada rezeki hari ni yang dikongsikan, Insya-Allah kami manfaatkan untuk…". Wajib: terima kasih kepada yang dah bersama + "doakanlah anak2". Elak "sudi tak…?" / soalan ajakan.
 
+## 9F. Gaya sembang berbuih (multi-bubble) dengan invois/poster
+① stiker salam → ② sapa nama + "sihat ke?" + konteks hari ni (2 baris) → ③ gambar invois/poster → ④ terang gambar + makluman "jika ada rezeki…" → ⑤ "tak ada pun tak apa" + doa + akaun. Setiap buih pendek; hantar dalam minit yang sama.
+
 ## 10. Jamuan Jumaat (templat)
 Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri & semak matematik.
 
