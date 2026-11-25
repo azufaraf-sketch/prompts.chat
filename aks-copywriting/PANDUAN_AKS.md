@@ -177,7 +177,15 @@ Guna bila sebahagian penyantun dah bantu. Nada: "sekadar memaklumkan… jika ada
 ## 9G. Makluman berhikmah (supaya tak rasa "mesti nak minta")
 - Jangan sorok niat — orang curiga bila niat disembunyikan. Berterus terang + tiada paksaan: "Saya berterus terang ya Kak.. Kak dah macam keluarga pada anak2 ni, sebab tu saya kongsikan… Tak ada paksaan langsung."
 - Jadikan DOA permintaan utama (bold), rezeki pilihan kedua dengan jalan keluar: "Kalau tak ada, doa Kak pun dah cukup besar bagi kami."
-- "Tak perlu balas pun ya Kak.." — buang tekanan nak membalas.
+- Elak klise "Tak perlu balas pun" (cikgu tak suka).
+- Bank frasa jujur & ikhlas (putar):
+  - "Jujurnya saya serba salah juga nak hantar ni.."
+  - "Saya cerita jujur ya Kak.. kami cikgu2 dah usaha sedaya yang ada, tapi dengan 201 anak, dapur ni kadang memang tak cukup.."
+  - "Saya tak pandai nak berlapik, jadi saya cakap terus terang ya.."
+  - "Semuanya untuk dapur anak2, bukan untuk kami cikgu2."
+  - "Insya-Allah nanti saya tunjukkan barang sampai, macam biasa." (amanah — hanya jika memang akan dihantar)
+  - "Insya-Allah sampai terus ke pinggan anak2 petang ni."
+  - "Ada atau tak ada, saya tetap doakan Kak.." (doa tanpa syarat)
 - Strategi jangka panjang: kongsi juga bila TIADA hajat (video jamuan, terima kasih, doa bernama) supaya mesej cikgu tak sentiasa dikaitkan dengan minta.
 
 ## 10. Jamuan Jumaat (templat)
