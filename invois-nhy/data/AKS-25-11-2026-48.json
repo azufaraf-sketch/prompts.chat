@@ -1,0 +1,19 @@
+{
+  "tarikh": "25/11/2026",
+  "no_invois": "AKS-25-11-2026-48",
+  "rujukan": "-",
+  "nota": "",
+  "_status": "DRAF SEMAKAN - dari gambar IMG_4420/4421, kuantiti & harga belum disahkan",
+  "items": [
+    {"butiran": "Bawang India 888 (±9kg)", "qty": 4, "uom": "GNI", "harga": 27.00},
+    {"butiran": "Bawang Putih (Guni Kecil)", "qty": 2, "uom": "GNI", "harga": 24.00},
+    {"butiran": "Ubi Kentang China (8kg)", "qty": 1, "uom": "GNI", "harga": 14.00},
+    {"butiran": "Krimer Manis Johan (2.5kg x 8)", "qty": 1, "uom": "CTN", "harga": 104.00},
+    {"butiran": "Susu Pekat Johan (500g x 48)", "qty": 1, "uom": "CTN", "harga": 129.00},
+    {"butiran": "Susu Cair Tarik Tarik (390g x 48)", "qty": 1, "uom": "CTN", "harga": 135.00},
+    {"butiran": "Santan Kelapa (200ml x 24)", "qty": 1, "uom": "CTN", "harga": 48.00},
+    {"butiran": "Kicap Mudim (2kg x 6)", "qty": 2, "uom": "CTN", "harga": 70.20},
+    {"butiran": "Sos Cili Mudim (2kg x 6)", "qty": 2, "uom": "CTN", "harga": 70.20},
+    {"butiran": "Sos Cili Pedas Mudim (900g x 12)", "qty": 2, "uom": "CTN", "harga": 67.00}
+  ]
+}
