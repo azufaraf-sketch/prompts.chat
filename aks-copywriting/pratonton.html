@@ -47,6 +47,7 @@ button:focus-visible{outline:3px solid var(--fg);outline-offset:2px}
 .paper strong{font-size:12px;display:block;text-decoration:underline;margin:3px 0}
 .flow .bubble{max-width:62%}
 .flow-title{font-size:1rem;margin:0}
+.names{display:flex;gap:10px;flex-wrap:wrap}.names label{display:flex;flex-direction:column;gap:4px;font-size:.85rem;color:var(--muted);flex:1;min-width:140px}.names input{font:inherit;font-size:1rem;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bubble);color:var(--fg)}
 textarea.fallback{width:100%;min-height:120px;font:inherit;font-size:.85rem}
 </style>
 
@@ -55,6 +56,14 @@ textarea.fallback{width:100%;min-height:120px;font:inherit;font-size:.85rem}
     <h1>Draf Mesej AKS</h1>
     <p>Baca macam di WhatsApp. Bila dah setuju, tekan butang salin, terus tampal ke WhatsApp (bold dah siap).</p>
   </header>
+  <section class="card" aria-label="Nama penyantun">
+    <div class="label">Tukar nama penyantun (untuk blast)</div>
+    <div class="names">
+      <label for="nama">Nama penuh<input id="nama" type="text" value="Kak Rahmah"></label>
+      <label for="panggil">Panggilan ringkas<input id="panggil" type="text" value="Kak"></label>
+    </div>
+    <p class="status">Ayat yang ada nama akan bertukar terus. Contoh: "Tuan Haji Hamid" + "Tuan Haji".</p>
+  </section>
   <section class="card" aria-label="Susunan hantar">
     <h2 class="flow-title">Gambaran susunan hantar: doa bernama (Kak Saldina)</h2>
     <div class="flow">
@@ -79,6 +88,55 @@ Aamiin 🤲</div><div class="num">5</div></div>
 
 <script>
 const DRAFTS = [
+{group:"Makluman peribadi (sembang) · Iftar Khamis · tukar nama di atas untuk blast", label:"Versi 1 · Ikut ayat cikgu", text:
+`{NAMA}.. 🥹
+
+Insya-Allah hari ni, *jika ada rezeki yang dikongsikan pada anak2 yatim asnaf ni,* melalui produk Asrama ataupun sumbangan ikhlas, kami akan manfaatkan untuk depa berbuka puasa sunat Khamis petang ni.
+
+Barang dapur dah kami order semalam lagi, tapi belum dapat ambil.. iyalah {P}, anak2 ramai, 201 orang. Allahuakbar..
+
+Saya sekadar berkongsi sedikit info untuk {P} ya.
+
+Doakanlah urusan anak2 ni berbuka dipermudahkan..
+
+Moga murah rezeki {P}, diberi kesihatan yang baik, dan sampai pahala pada mak ayah serta arwah keluarga {P}. Aamiin 🤲
+
+🗳Akaun Kebajikan
+*Asrama Kasih Sayang*
+Agro Bank
+100-5141-000-108716`},
+{label:"Versi 2 · \"Saya nak kongsi sikit\"", text:
+`Assalamualaikum {NAMA}..
+
+Saya nak kongsi sikit ya {P} 🥹 Hari ni anak2 yatim asnaf kami puasa sunat Khamis.
+
+Barang dapur untuk berbuka dah kami pesan dari pembekal semalam, RM1,000.80, cuma belum sempat ambil lagi.
+
+Jadi Insya-Allah, *kalau ada rezeki yang dikongsikan hari ni,* melalui produk Asrama ataupun sumbangan ikhlas, kami terus manfaatkan untuk juadah depa petang ni.
+
+Tak ada pun tak apa {P}, cukuplah doakan anak2 ni..
+
+Moga Allah murahkan rezeki {P}, sihatkan tubuh badan, dan alirkan pahala buat mak ayah serta arwah keluarga {P}.. Aamiin 🤲
+
+🗳Akaun Kebajikan
+*Asrama Kasih Sayang*
+Agro Bank
+100-5141-000-108716`},
+{label:"Versi 3 · Cerita cikgu kira barang dapur", text:
+`{NAMA}.. 🥹
+
+Pagi ni saya dok kira2 barang dapur anak2.. semalam dah order dari pembekal, tapi belum dapat ambil lagi. Iyalah {P}, anak yatim asnaf ramai, 201 orang.. Allahuakbar.
+
+Petang ni depa berbuka puasa sunat Khamis.
+
+Sekadar info untuk {P} ya, Insya-Allah *jika ada rezeki yang dikongsikan hari ni,* melalui produk Asrama ataupun sumbangan ikhlas, kami manfaatkan untuk juadah berbuka depa.
+
+Kami doakan juga {P}.. murah rezeki, sihat sejahtera, dan sampai pahala pada mak ayah serta arwah keluarga. Aamiin 🤲😢
+
+🗳Akaun Kebajikan
+*Asrama Kasih Sayang*
+Agro Bank
+100-5141-000-108716`},
 {group:"Makluman (bukan minta) · Iftar Khamis · semua penyantun · Agro Bank", label:"Versi 1 · Makluman + terima kasih", text:
 `Assalamualaikum Tuan Puan..
 
@@ -748,17 +806,22 @@ function esc(s){return s.replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"
 function waToHtml(s){return esc(s).replace(/\*([^*\n]+)\*/g,"<strong>$1</strong>")}
 
 const list=document.getElementById("list");
+const namaEl=document.getElementById("nama"), pEl=document.getElementById("panggil");
+function T(d){return d.text.split("{NAMA}").join(namaEl.value.trim()||"Kak Rahmah").split("{P}").join(pEl.value.trim()||"Kak")}
+function render(){
+list.innerHTML="";
 DRAFTS.forEach((d,i)=>{
+  const txt=T(d);
   if(d.group){const h=document.createElement("h2");h.className="group";h.textContent=d.group;list.appendChild(h)}
   const card=document.createElement("section");card.className="card";
   card.innerHTML=`<div class="label">${esc(d.label)}</div>
-  <div class="chat"><div class="bubble">${waToHtml(d.text)}<span class="time">${d.text.length} aksara</span></div></div>
+  <div class="chat"><div class="bubble">${waToHtml(txt)}<span class="time">${txt.length} aksara</span></div></div>
   <div class="actions"><button id="copy-${i}" type="button" data-mode="wa">Salin untuk WhatsApp</button><button id="copytg-${i}" type="button" data-mode="tg" class="alt">Salin untuk Group Telegram</button><span class="status" id="st-${i}"></span></div>`;
   list.appendChild(card);
   card.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>{
     const st=card.querySelector(".status");
     const tg=b.dataset.mode==="tg";
-    const out=tg?"```\n"+d.text+"\n```":d.text;
+    const out=tg?"```\n"+txt+"\n```":txt;
     navigator.clipboard.writeText(out).then(()=>{st.textContent=tg?"Dah disalin. Tampal di Telegram, bintang akan kekal dalam kotak kod.":"Dah disalin. Tampal di WhatsApp."})
     .catch(()=>{
       let ta=card.querySelector("textarea");
@@ -767,4 +830,7 @@ DRAFTS.forEach((d,i)=>{
     });
   }));
 });
+}
+render();
+namaEl.addEventListener("input",render);pEl.addEventListener("input",render);
 </script>
