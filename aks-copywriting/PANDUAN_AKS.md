@@ -174,6 +174,12 @@ Guna bila sebahagian penyantun dah bantu. Nada: "sekadar memaklumkan… jika ada
 ## 9F. Gaya sembang berbuih (multi-bubble) dengan invois/poster
 ① stiker salam → ② sapa nama + "sihat ke?" + konteks hari ni (2 baris) → ③ gambar invois/poster → ④ terang gambar + makluman "jika ada rezeki…" → ⑤ "tak ada pun tak apa" + doa + akaun. Setiap buih pendek; hantar dalam minit yang sama.
 
+## 9G. Makluman berhikmah (supaya tak rasa "mesti nak minta")
+- Jangan sorok niat — orang curiga bila niat disembunyikan. Berterus terang + tiada paksaan: "Saya berterus terang ya Kak.. Kak dah macam keluarga pada anak2 ni, sebab tu saya kongsikan… Tak ada paksaan langsung."
+- Jadikan DOA permintaan utama (bold), rezeki pilihan kedua dengan jalan keluar: "Kalau tak ada, doa Kak pun dah cukup besar bagi kami."
+- "Tak perlu balas pun ya Kak.." — buang tekanan nak membalas.
+- Strategi jangka panjang: kongsi juga bila TIADA hajat (video jamuan, terima kasih, doa bernama) supaya mesej cikgu tak sentiasa dikaitkan dengan minta.
+
 ## 10. Jamuan Jumaat (templat)
 Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri & semak matematik.
 
