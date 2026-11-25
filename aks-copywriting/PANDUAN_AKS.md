@@ -63,6 +63,13 @@ Guna fail ini setiap kali minta ayat baru supaya gaya kekal sama tapi ayat senti
     Agro Bank
     100-5141-000-108716
     ```
+  - Cikgu beri akaun Rezki Bersatu → guna format ini (dari 25/11/2026, untuk invois dapur):
+    ```
+    *REZKI BERSATU ENT.*
+    *CIMB : 8605 7702 78*
+    *Ref: Beli Produk Asrama*
+    ```
+    (Ini akaun CIMB lain — bukan CIMB Asrama lama. Utamakan frasa "beli produk Asrama".)
 - **CIMB 8604 1824 13 sudah TIDAK boleh digunakan (disahkan cikgu). Jangan sekali-kali masukkan.**
 - Produk Asrama (lihat seksyen 5A).
 - Kanvas: 10 helai × RM850 (20' × 20') = RM8,500.
@@ -217,3 +224,6 @@ Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri
 | 23/11/2026 | Iftar Isnin RM375 v7 | Tuan.. saya nak sembang sikit boleh? | tengok juadah, yang ditunggu lepas berpuasa | balas dengan yang lebih baik |
 | 23/11/2026 | v8 | Tuan.. 🥹 | tak sampai RM2 seorang | lapang dada & rezeki |
 | 23/11/2026 | v9 | Tuan.. 🥹 | azan Maghrib, doa orang berpuasa tak ditolak | Aamiin ya Rabb |
+| 25/11/2026 | Sahur & iftar Khamis invois RM1,000.80 v1 | Tuan.. 🥹 | bangun sahur, air panas & lauk | permudah urusan esok & selamanya |
+| 25/11/2026 | v2 | Assalamualaikum Tuan.. | tak sampai RM5 seorang | berkati rezeki masuk ke rumah |
+| 25/11/2026 | v3 | Tuan.. salam | malu menyapa, sudi tak? | jaga & murahkan rezeki |
