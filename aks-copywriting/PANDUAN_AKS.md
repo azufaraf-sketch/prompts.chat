@@ -168,6 +168,9 @@ Stiker salam → ayat pembuka (sapa nama + puasa sunat) → video → gambar ker
 Bold: mesej peribadi = bold minimum. Ayat pembuka tanpa bold; ayat penutup bold SATU bahagian sahaja (nama dalam doa). Bold banyak rasa macam iklan.
 Sebab: ayat penutup merujuk "video dan kertas" yang dah dilihat; mesej berakhir dengan doa, bukan gambar.
 
+## 9E. Ayat MAKLUMAN (bukan minta) untuk semua penyantun
+Guna bila sebahagian penyantun dah bantu. Nada: "sekadar memaklumkan… jika ada rezeki hari ni yang dikongsikan, Insya-Allah kami manfaatkan untuk…". Wajib: terima kasih kepada yang dah bersama + "doakanlah anak2". Elak "sudi tak…?" / soalan ajakan.
+
 ## 10. Jamuan Jumaat (templat)
 Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri & semak matematik.
 
