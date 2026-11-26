@@ -247,3 +247,6 @@ Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri
 | 25/11/2026 | Sahur & iftar Khamis invois RM1,000.80 v1 | Tuan.. 🥹 | bangun sahur, air panas & lauk | permudah urusan esok & selamanya |
 | 25/11/2026 | v2 | Assalamualaikum Tuan.. | tak sampai RM5 seorang | berkati rezeki masuk ke rumah |
 | 25/11/2026 | v3 | Tuan.. salam | malu menyapa, sudi tak? | jaga & murahkan rezeki |
+| 26/11/2026 | Iftar Khamis puteri ayu + tembikai RM385 v1 | Allahuakbar Kak… | sedang berpuasa, satu bahagian | sejukkan hati seperti tembikai |
+| 26/11/2026 | v2 | Kak.. 🥹 | sepotong tembikai sejuk, ~RM1.90 seorang | murah rezeki, pahala arwah |
+| 26/11/2026 | v3 | Kak.. salam Khamis | ringkas | tetap doakan |
