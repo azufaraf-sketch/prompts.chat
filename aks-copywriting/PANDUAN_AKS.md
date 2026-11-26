@@ -254,3 +254,6 @@ Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri
 | 26/11/2026 | v2 | Assalamualaikum Tuan.. | ingatkan dengan jujur, masih diusahakan | tetap doakan |
 | 26/11/2026 | v3 | Tuan.. 🥹 | azan Maghrib, doa orang berpuasa | murah rezeki & sihat |
 | 26/11/2026 | Terima kasih akikah Tuan Firdaus (Fatimah Hana) | Assalamualaikum Tuan Firdaus.. Alhamdulillah | sembelihan → masak → Yasin & doa → makan | Fatimah Hana solehah, penyejuk mata |
+| 26/11/2026 (malam) | Malam Jumaat Qiamulail + doa kanvas v1 | Kak.. 🥹 | mengaji & berdoa | rahmat malam Jumaat |
+| 26/11/2026 (malam) | v2 | Assalamualaikum Kak.. | penyantun dalam doa anak2 | Aamiin ya Rabb |
+| 26/11/2026 (malam) | v3 ringkas | salam malam Jumaat | Qiamulail | doakan kanvas |
