@@ -250,3 +250,6 @@ Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri
 | 26/11/2026 | Iftar Khamis puteri ayu + tembikai RM385 v1 | Allahuakbar Kak… | sedang berpuasa, satu bahagian | sejukkan hati seperti tembikai |
 | 26/11/2026 | v2 | Kak.. 🥹 | sepotong tembikai sejuk, ~RM1.90 seorang | murah rezeki, pahala arwah |
 | 26/11/2026 | v3 | Kak.. salam Khamis | ringkas | tetap doakan |
+| 26/11/2026 | Bilas invois RM1,000.80 v1 | Tuan.. 🥹 | dah bangun sahur | doakan dipermudahkan |
+| 26/11/2026 | v2 | Assalamualaikum Tuan.. | ingatkan dengan jujur, masih diusahakan | tetap doakan |
+| 26/11/2026 | v3 | Tuan.. 🥹 | azan Maghrib, doa orang berpuasa | murah rezeki & sihat |
