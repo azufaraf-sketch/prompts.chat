@@ -188,6 +188,10 @@ Guna bila sebahagian penyantun dah bantu. Nada: "sekadar memaklumkan… jika ada
   - "Ada atau tak ada, saya tetap doakan Kak.." (doa tanpa syarat)
 - Strategi jangka panjang: kongsi juga bila TIADA hajat (video jamuan, terima kasih, doa bernama) supaya mesej cikgu tak sentiasa dikaitkan dengan minta.
 
+## 9H. Susunan doa Jumaat (selepas hari minta)
+① stiker salam Jumaat → ② ayat pembuka pendek ("ada sesuatu khas untuk Kak..") → ③ video khas sebut nama → ④ video selawat → ⑤ doa panjang (bold) → ⑥ stiker QR tanpa ayat (langkau untuk yang dah bantu).
+Hari ni hanya mendoakan; QR di hujung secara senyap, bukan dengan ayat minta.
+
 ## 10. Jamuan Jumaat (templat)
 Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri & semak matematik.
 
@@ -257,3 +261,4 @@ Cikgu bagi: tarikh/waktu, menu + harga seunit (atau jumlah). Claude kira sendiri
 | 26/11/2026 (malam) | Malam Jumaat Qiamulail + doa kanvas v1 | Kak.. 🥹 | mengaji & berdoa | rahmat malam Jumaat |
 | 26/11/2026 (malam) | v2 | Assalamualaikum Kak.. | penyantun dalam doa anak2 | Aamiin ya Rabb |
 | 26/11/2026 (malam) | v3 ringkas | salam malam Jumaat | Qiamulail | doakan kanvas |
+| 27/11/2026 | Doa Jumaat (video nama + selawat + QR) | Assalamualaikum Kak.. ada sesuatu khas | Quran & selawat khas | ampun, cahaya rumah, pahala arwah, naungan Arasy |
